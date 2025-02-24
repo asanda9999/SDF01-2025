@@ -1,23 +1,24 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
-
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+# 👋 Hi, I'm Asanda Mkhize
+🌱 Junior Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 💡 Aspiring Full-Stack Developer with a strong foundation in backend development. Currently expanding my expertise in front-end technologies.
+- 🎓 Diploma in Application Development from Durban University of Technology.
+- 🤖 Passionate about solving problems through technology and continuously improving my skills.
+- 🔥 Dedicated to building real-world applications and contributing to innovative projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Currently learning:**
+- ASP.Net Framework
+- Cloud Computing - Micrsoft Azure
+
 
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -32,10 +33,10 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+🤝 Strong collaboration skills.
+📢 Excellent communication abilities and an eager mindset to excel.
+🎯 Open to feedback to improve my work.
+🚀 Adaptable and flexible in time constraining enviroments.
 
 ---
 
@@ -51,16 +52,17 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
+🔹 **Technologies:** HTML, CSS , ASP MVC , SQL , Figma
 🔹 **Status:** ⏳ In Progress
 
 ---
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+ - 🚀 Master Git and GitHub for efficient collaboration and version control
+- 🎨 Develop proficiency in HTML, CSS, and JavaScript for front-end development
+- 💡 Build real-world applications and contribute to open-source projects in collobartion with others.
+
 
 ---
 
@@ -68,13 +70,13 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: 22061838@dut4life.ac.za
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡  I enjoy finding efficient solutions to complex problems and continuously pushing myself to learn new technologies.
 
 ---
 
